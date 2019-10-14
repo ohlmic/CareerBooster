@@ -17,3 +17,5 @@ https://codingbat.com/python
 ### **Pandas**
 #### **Teori**
 https://github.com/jakevdp/PythonDataScienceHandbook  
+
+More to come...
