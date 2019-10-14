@@ -10,7 +10,7 @@ https://learnpythonthehardway.org/
 https://www.learnpython.org/en/  
 https://www.kaggle.com/learn/python  
 https://codingbat.com/python  
-https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt (olika svårighetsgrader)  
+[100 Python Challenges](https://github.com/zhiwehu/Python-programming-exercises/blob/master/100%2B%20Python%20challenging%20programming%20exercises.txt) (olika svårighetsgrader)  
 
 ### **Pandas**
 #### **Teori**
