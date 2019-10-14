@@ -4,6 +4,8 @@
 ### **Python**
 #### **Teori**
 https://github.com/jakevdp/WhirlwindTourOfPython  
+https://learnpythonthehardway.org/  
+[OOP tutorial av Corey Shafer](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) (OOP tutorial)
 #### **Övningar**
 https://www.learnpython.org/en/  
 https://www.kaggle.com/learn/python  
