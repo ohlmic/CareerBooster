@@ -18,4 +18,7 @@ https://codingbat.com/python
 #### **Teori**
 https://github.com/jakevdp/PythonDataScienceHandbook  
 
-More to come...
+#### **Övningar**
+https://www.kaggle.com/learn/pandas  
+https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html (många bra länkar)  
+https://github.com/jvns/pandas-cookbook  
