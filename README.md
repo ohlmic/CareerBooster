@@ -22,3 +22,19 @@ https://github.com/jakevdp/PythonDataScienceHandbook
 https://www.kaggle.com/learn/pandas  
 https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html (många bra länkar)  
 https://github.com/jvns/pandas-cookbook  
+
+### **Visualisering**
+#### **Övningar**
+
+https://www.kaggle.com/learn/data-visualization
+
+### **Machine Learning**
+
+#### **Övningar**
+https://www.kaggle.com/learn/intro-to-machine-learning  
+https://www.kaggle.com/learn/intermediate-machine-learning  
+
+#### **Fördjupning**
+https://www.coursera.org/learn/machine-learning  
+https://www.deeplearning.ai/  
+
