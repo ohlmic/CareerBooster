@@ -30,10 +30,11 @@ https://www.kaggle.com/learn/data-visualization
 
 ### **Machine Learning**
 
-#### **Övningar**
+#### **Tutorials & övningar**
 https://www.dataquest.io/blog/sci-kit-learn-tutorial/
 https://www.kaggle.com/learn/intro-to-machine-learning  
 https://www.kaggle.com/learn/intermediate-machine-learning  
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
 #### **Fördjupning**
 https://www.coursera.org/learn/machine-learning  
