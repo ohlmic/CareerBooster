@@ -31,6 +31,7 @@ https://www.kaggle.com/learn/data-visualization
 ### **Machine Learning**
 
 #### **Övningar**
+https://www.dataquest.io/blog/sci-kit-learn-tutorial/
 https://www.kaggle.com/learn/intro-to-machine-learning  
 https://www.kaggle.com/learn/intermediate-machine-learning  
 
