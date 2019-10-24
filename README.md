@@ -1,5 +1,5 @@
 # Introduktion Data Science
-
+Material för en introkurs jag höll i för nya medarbetare.
 ## Länkar
 ### **Python**
 #### **Teori**
